@@ -12,7 +12,7 @@ const Signup = () => {
             <div className="max-w-md w-full">
                     <div className="text-center mb-6">
                         <h2 className="mt-6 text-3xl font-extrabold text-gray-900 dark:text-white">Create your account</h2>
-                        <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">Already have an account? <Link to="/Login" className="font-medium text-blue-600 hover:text-blue-500">Sign in</Link></p>
+                        <p className="mt-2 text-sm text-gray-600 dark:text-gray-400">Already have an account? <Link to="/auth/Login" className="font-medium text-blue-600 hover:text-blue-500">Sign in</Link></p>
                     </div>
                     <form className="mt-8">
                         <div className="mb-4">
