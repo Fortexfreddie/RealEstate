@@ -1,5 +1,5 @@
 import Navbar from "../../components/Navbar";
-import Footer from "../../components/footer";
+import Footer from "../../components/Footer";
 import { Building2, Home, ShoppingCart, DollarSign, Eye, Trash2, PlusIcon } from "lucide-react";
 import image from '../../assets/listing_images/image.png';
 import { useNavigate } from "react-router-dom";

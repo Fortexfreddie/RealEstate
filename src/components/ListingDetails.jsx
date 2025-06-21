@@ -1,6 +1,6 @@
 import Navbar from "./Navbar";
 import ListingDetail from "./ListingDetail";
-import Footer from "./footer";
+import Footer from "./Footer";
 
 
 const ListingDetails = () => {

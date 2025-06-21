@@ -1,5 +1,5 @@
 import Navbar from "../../components/Navbar";
-import Footer from "../../components/footer";
+import Footer from "../../components/Footer";
 import { Building2, Wallet, Users, MapPin, ImagePlus, FileText } from "lucide-react";
 
 const Post = () => {

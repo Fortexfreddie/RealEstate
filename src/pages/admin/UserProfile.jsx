@@ -1,5 +1,5 @@
 import Navbar from "../../components/Navbar";
-import Footer from "../../components/footer";
+import Footer from "../../components/Footer";
 import { X, Pencil, SearchIcon, Eye, Trash2, Wrench } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";

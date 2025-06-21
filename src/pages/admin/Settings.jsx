@@ -1,6 +1,6 @@
 import { Settings, EyeOff, FileDown, Ban, CalendarX, LockIcon, Eye, Trash2, SearchIcon, X } from "lucide-react";
 import Navbar from "../../components/Navbar";
-import Footer from "../../components/footer";
+import Footer from "../../components/Footer";
 import backgroundImage from "../../assets/profile_images/photo10@2x.jpg";
 import Avatar from "../../assets/profile_images/image.png"
 import { useNavigate } from "react-router-dom";

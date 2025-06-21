@@ -1,5 +1,5 @@
 import Navbar from "../../components/Navbar";
-import Footer from "../../components/footer";
+import Footer from "../../components/Footer";
 import { Building2, Home, ShoppingCart, DollarSign, CalendarCheck, PlusIcon, Settings, ArrowRightCircleIcon, ClipboardCheck, UserX, Users, ShieldCheck, UserCheck, Headphones } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 
